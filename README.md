@@ -1,11 +1,11 @@
-<!-- <div align="center">
+<div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/54nd339/Portfolio/main/src/images/logo.png" width="100" />
-</div> -->
+</div>
 <h1 align="center">
   Portfolio Website
 </h1>
 <p align="center">
-  <a href="https://sandeepswain.dev" target="_blank">sandeepswain.dev</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  <a href="https://sandeepswain.dev" target="_blank">sandeepswain.dev</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://firebase.google.com/" target="_blank">Firebase</a>
 </p>
 
 ## 🛠 Installation & Set Up
