@@ -2,7 +2,7 @@
 title: Two Sum
 description: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 date: 2022-03-16
-draft: true
+draft: false
 slug: /pensieve/TwoSum
 tags:
   - Array
