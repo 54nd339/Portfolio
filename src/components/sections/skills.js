@@ -242,7 +242,7 @@ const Skills = () => {
 
   return (
     <StyledSkillsSection id="skills" ref={revealContainer}>
-      <h2 className="numbered-heading">Where I’ve Worked</h2>
+      <h2 className="numbered-heading">Skills I’ve acquired</h2>
 
       <div className="inner">
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyDown(e)}>

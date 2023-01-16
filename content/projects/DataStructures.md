@@ -8,7 +8,7 @@ ios: ''
 android: ''
 tech:
   - Arrays
-  - Linked Lists
+  - Lists
   - Stacks
   - Queues
   - Trees

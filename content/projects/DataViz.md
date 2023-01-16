@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-Website for Dataviz competition organised by Konnexions & Optix.
+Website for Dataviz competition organised by Konnexions & Optix. Users can register to take part in the quiz competition.

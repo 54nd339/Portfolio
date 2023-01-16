@@ -7,12 +7,9 @@ company: 'Personal'
 ios: ''
 android: ''
 tech:
-  - TensorFlow/Keras
-  - OpenCV
-  - Matplotlib
-  - Numpy
-  - Pandas
+  - TensorFlow
+  - Keras
 showInProjects: true
 ---
 
-Hands On Machine Learning algorithms and neural networks with TensorFlow/Keras.
+Hands On Machine Learning algorithms and neural networks with TensorFlow/Keras. The files involve NLP, Computer Vision, and other ML algorithms.

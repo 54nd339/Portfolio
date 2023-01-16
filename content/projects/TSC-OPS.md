@@ -1,6 +1,6 @@
 ---
 date: '2022-11-14'
-title: 'Talent Sprint Classes'
+title: 'Online-Procturing-System for TSC'
 github: 'https://github.com/54nd339/Online-Procturing-System'
 external: ''
 company: 'TS Classes'
@@ -14,4 +14,4 @@ tech:
 showInProjects: false
 ---
 
-Online Proctoring System for Talent Sprint Classes, Berhampur.
+Automated Online Proctoring System for Talent Sprint Classes, Berhampur. Having Face and Object Detection model used with Tensorflow.js.

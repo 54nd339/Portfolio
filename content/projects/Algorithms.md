@@ -8,10 +8,8 @@ ios: ''
 android: ''
 tech:
   - Greedy
-  - DP
+  - DP, AI
   - Graphs
-  - AI
-  - Divide and Conquer
   - Sorting
   - Searching
 showInProjects: false

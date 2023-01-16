@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-Mobile App for Talent Sprint Classes, Berhampur.
+Mobile App for Talent Sprint Classes, Berhampur with Material UI and Firebase as backend.

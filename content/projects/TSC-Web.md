@@ -13,4 +13,4 @@ tech:
 showInProjects: false
 ---
 
-Website for Talent Sprint Classes, Berhampur.
+Website for Talent Sprint Classes, Berhampur. Having a fully functional admin panel for managing the website. Also availing services to students and faculty enrolled.

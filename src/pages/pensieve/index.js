@@ -144,6 +144,7 @@ const StyledPost = styled.li`
 
 const PensievePage = ({ location, data }) => {
   const posts = data.allMarkdownRemark.edges;
+  console.log(data)
 
   return (
     <Layout location={location}>

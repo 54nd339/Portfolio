@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-Chess AI made with Alpha-Beta Pruning algorithm.
+Chess AI made with Alpha-Beta Pruning algorithm. The AI is unbeatable with a depth of 4. The AI is also able to detect checkmate and stalemate.

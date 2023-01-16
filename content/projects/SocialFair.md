@@ -14,4 +14,4 @@ tech:
 showInProjects: false
 ---
 
-A social media website made for fun.
+A social media website made for fun where users can post, like, comment, and follow other users. A chat system is aldo available for users to chat with each other.

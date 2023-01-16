@@ -8,8 +8,8 @@ ios: ''
 android: ''
 tech:
   - HTML
-  - CSS (Bootstrap)
-  - JavaScript (jQuery)
+  - Bootstrap
+  - jQuery
   - GSAP
 showInProjects: true
 ---
