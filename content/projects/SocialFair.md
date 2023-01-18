@@ -2,7 +2,7 @@
 date: '2021-12-12'
 title: 'SocialFair'
 github: 'https://github.com/54nd339/Social'
-external: ''
+external: 'https://social.sandeepswain.dev/'
 company: 'Personal'
 ios: ''
 android: ''
