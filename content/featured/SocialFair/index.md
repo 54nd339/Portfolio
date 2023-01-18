@@ -3,7 +3,7 @@ date: '2'
 title: 'SocialFair'
 cover: './Social.png'
 github: 'https://github.com/54nd339/halcyon-site'
-external: ''
+external: 'https://social.sandeepswain.dev/'
 cta: ''
 tech:
   - Next.js
