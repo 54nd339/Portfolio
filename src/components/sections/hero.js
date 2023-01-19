@@ -68,17 +68,21 @@ const Hero = () => {
         I’m a student from KIIT DU, currently pursuing Bachelor's degree in Computer Science
         &amp; Engineering. I’m a self-taught full-stack developer and a freelance. I enjoy creating
         things that live on the internet. I guess a lot of effort is required to make a website look
-        good. Here's a simple website without any fancy stuff.
+        good. Visit this{' '}
+        <a href="https://motherfuckingwebsite.com/">
+          simple website
+        </a>{' '}
+        without any fancy stuff. In case you want to skip the fancy part, here's my resume.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://motherfuckingwebsite.com/"
+      href="/resume.pdf"
       target="_blank"
       rel="noreferrer">
-      Simple Site!
+      Resume!
     </a>
   );
 

@@ -21,7 +21,6 @@ const StyledAboutSection = styled.section`
 const StyledText = styled.div`
   ul.skills-list {
     display: grid;
-    grid-template-columns: repeat(2, minmax(140px, 200px));
     grid-gap: 0 10px;
     padding: 0;
     margin: 20px 0 0 0;
@@ -125,7 +124,9 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'Firebase', 'React', 'Vue', 'Tensorflow', 'Bootstrap'];
+  const skills = ['(2020 - Now) B.Tech. CSE (KIIT University) - 9.34 CGPA',
+                  '(2020) Intermediate (FIITJEE Jr. College) - 95.5% (IPE-AP)',
+                  '(2018) Primary (De Paul School) - 92.4% (ICSE)'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -144,18 +145,14 @@ const About = () => {
             <p>
               Fast-forward to today, my main focus these days is building products that provide pixel-perfect,
               performant experiences. I'm trying different technologies ranging from app and web development to
-              Machine Learning and Artificial Intelligence.
+              Machine Learning and Artificial Intelligence. I'm also an active member of the{' '}
+              <a href="https://ksac.kiit.ac.in/societies/konnexions/">
+                KIIT Konnexions
+              </a>{' '},
+              the IT society of{' '}<a href="https://www.kiit.ac.in">KIIT University</a>.
             </p>
 
-            <p>
-              I also recently{' '}
-              <a href="https://www.talentsprintbam.com">
-                launched a website
-              </a>{' '}
-              for a coaching institution using Vue.js, Firebase &amp; Bootstrap.
-            </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here’s my educational background:</p>
           </div>
 
           <ul className="skills-list">
