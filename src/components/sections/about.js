@@ -145,7 +145,7 @@ const About = () => {
             <p>
               Fast-forward to today, my main focus these days is building products that provide pixel-perfect,
               performant experiences. I'm trying different technologies ranging from app and web development to
-              Machine Learning and Artificial Intelligence. I'm also an active member of the{' '}
+              Machine Learning and Artificial Intelligence. I'm also the AppDev Lead of the{' '}
               <a href="https://ksac.kiit.ac.in/societies/konnexions/">
                 KIIT Konnexions
               </a>{' '},
