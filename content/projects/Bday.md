@@ -11,7 +11,7 @@ tech:
   - Bootstrap
   - jQuery
   - GSAP
-showInProjects: true
+showInProjects: false
 ---
 
 A birthday website for a friend having various mini-games and a surprise at the end.
