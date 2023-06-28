@@ -1,6 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="https://raw.githack.com/54nd339/Portfolio/main/src/images/logo.png" width="100" />
-</div>
 <h1 align="center">
   Portfolio Website
 </h1>

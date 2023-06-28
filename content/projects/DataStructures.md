@@ -1,9 +1,9 @@
 ---
-date: '2020-09-18'
+date: '2020-10-15'
 title: 'Data Structures'
 github: 'https://github.com/54nd339/Data-Structures'
 external: ''
-company: ''
+company: 'Personal'
 ios: ''
 android: ''
 tech:
@@ -14,6 +14,6 @@ tech:
   - Trees
   - Graphs
 showInProjects: false
+web: false
 ---
-
 Implementation of various data structures in C.

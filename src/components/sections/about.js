@@ -124,7 +124,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['(2020 - Now) B.Tech. CSE (KIIT University) - 9.34 CGPA',
+  const skills = ['(2020 - Now) B.Tech. CSE (KIIT University) - 9.21 CGPA',
                   '(2020) Intermediate (FIITJEE Jr. College) - 95.5% (IPE-AP)',
                   '(2018) Primary (De Paul School) - 92.4% (ICSE)'];
 
@@ -136,20 +136,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Sandeep and I enjoy creating things that live on the internet, 
-              whether that be websites, applications, or anything in between. My
-              interest in web development started back in 2018 when I was trying to impress a gal
-              — turns out building a birthday site for her taught me a lot about HTML &amp; CSS!
+              I've started coding since I was 12 and I've been doing it ever since.
+              I like to code things from scratch, and enjoy problem-solving.
+              I'm also a huge fan of open-source and love to contribute to the community.
             </p>
 
             <p>
               Fast-forward to today, my main focus these days is building products that provide pixel-perfect,
-              performant experiences. I'm trying different technologies ranging from app and web development to
-              Machine Learning and Artificial Intelligence. I'm also the AppDev Lead of the{' '}
-              <a href="https://ksac.kiit.ac.in/societies/konnexions/">
+              performant experiences. I'm trying different technologies ranging from Web/App Development to
+              Machine Learning and Quantum Computing. I'm also the AppDev Lead of the{' '}
+              <a href="https://konnexions.netlify.app/">
                 KIIT Konnexions
-              </a>{' '},
-              the IT society of{' '}<a href="https://www.kiit.ac.in">KIIT University</a>.
+              </a>{' '}, the IT society of{' '}
+              <a href="https://www.kiit.ac.in">
+                KIIT University
+              </a>.
             </p>
 
             <p>Here’s my educational background:</p>

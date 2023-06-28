@@ -10,7 +10,7 @@ tech:
   - Vue
   - Firebase
   - Bootstrap
-showInProjects: false
+showInProjects: true
+web: true
 ---
-
 Website for Talent Sprint Classes, Berhampur. Having a fully functional admin panel for managing the website. Also availing services to students and faculty enrolled.

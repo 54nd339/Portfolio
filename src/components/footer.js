@@ -50,45 +50,14 @@ const StyledCredit = styled.div`
     padding: 10px;
   }
 
-  .github-stats {
-    margin-top: 10px;
-
-    & > span {
-      display: inline-flex;
-      align-items: center;
-      margin: 0 7px;
-    }
-    svg {
-      display: inline-block;
-      margin-right: 5px;
-      width: 14px;
-      height: 14px;
+  .credit-link {
+    @media (max-width: 768px) {
+      display: none;
     }
   }
 `;
 
 const Footer = () => {
-  // const [githubInfo, setGitHubInfo] = useState({
-  //   stars: null,
-  //   forks: null,
-  // });
-
-  // useEffect(() => {
-  //   if (process.env.NODE_ENV !== 'production') {
-  //     return;
-  //   }
-  //   fetch('https://api.github.com/repos/54nd339/Portfolio')
-  //     .then(response => response.json())
-  //     .then(json => {
-  //       const { stargazers_count, forks_count } = json;
-  //       setGitHubInfo({
-  //         stars: stargazers_count,
-  //         forks: forks_count,
-  //       });
-  //     })
-  //     .catch(e => console.error(e));
-  // }, []);
-
   return (
     <StyledFooter>
       <StyledSocialLinks>
@@ -106,20 +75,11 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/54nd339/">
-          <div>Built with 💖 &amp; 🍟 by Sandeep</div>
-
-          {/* {githubInfo.stars && githubInfo.forks && (
-            <div className="github-stats">
-              <span>
-                <Icon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <Icon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </div>
-          )} */}
+          <div>Built with 💖 by Sandeep</div>
+        </a>
+        <span className='credit-link'>&middot;</span>
+        <a href="https://brittanychiang.com/" className='credit-link'>
+          <div>Design inspired from BChiang</div>
         </a>
       </StyledCredit>
     </StyledFooter>

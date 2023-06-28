@@ -18,10 +18,18 @@ module.exports = {
     //   name: 'Linkedin',
     //   url: 'https://www.linkedin.com/in/54nd339',
     // },
-    // {
-    //   name: 'Codepen',
-    //   url: 'https://codepen.io/54nd339',
-    // },
+    {
+      name: 'Codepen',
+      url: 'https://codepen.io/54nd339',
+    },
+    {
+      name: 'HackerRank',
+      url: 'https://www.hackerrank.com/94390sandeep',
+    },
+    {
+      name: 'FreeCodeCamp',
+      url: 'https://www.freecodecamp.org/54nd339',
+    }
   ],
 
   navLinks: [

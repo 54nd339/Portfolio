@@ -1,10 +1,10 @@
 ---
-title: 'AI/ML'
-skill: 'Artificial Intelligence & Machine Learning'
-techs: 'Tensorflow, Keras, Python'
-rank: 5
+title: 'Data Science'
+skill: 'Machine Learning & Data Analytics'
+techs: 'Tensorflow, Keras, Python Libraries'
+rank: 4
 ---
-
-- I've basic knowledge of informed and non-informed search algorithms, including CSP problems and heuristics.
-- Worked with a variety of different languages, platforms, and frameworks such as JavaScript, Python, Tensorflow, Keras, Numpy, Pandas, OpenCV, Matplotlib, NLTK, Scipy.
-- Familiar with concepts of supervised and unsupervised learning, including regression, classification, clustering, reinforcement learning, and deep learning.
+- Numpy, Pandas, Matplotlib, Scikit-learn are my go-to libraries for data analysis.
+- I use Tensorflow and Keras for building and training deep learning models.
+- I use OpenCV for image processing and computer vision.
+- I use Flask for deploying ML models as web apps.

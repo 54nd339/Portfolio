@@ -1,7 +1,7 @@
 ---
 date: '2022-11-14'
 title: 'Online-Procturing-System for TSC'
-github: 'https://github.com/54nd339/Online-Procturing-System'
+github: ''
 external: ''
 company: 'TS Classes'
 ios: ''
@@ -10,8 +10,9 @@ tech:
   - Vue
   - MongoDB
   - Express
-  - Node
+  - Socket.io
+  - Tensorflow.js
 showInProjects: false
+web: true
 ---
-
 Automated Online Proctoring System for Talent Sprint Classes, Berhampur. Having Face and Object Detection model used with Tensorflow.js.

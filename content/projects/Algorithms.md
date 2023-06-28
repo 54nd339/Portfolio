@@ -1,9 +1,9 @@
 ---
-date: '2020-09-18'
+date: '2020-12-23'
 title: 'Algorithms'
 github: 'https://github.com/54nd339/Algorithms'
 external: ''
-company: ''
+company: 'Personal'
 ios: ''
 android: ''
 tech:
@@ -13,6 +13,6 @@ tech:
   - Sorting
   - Searching
 showInProjects: false
+web: false
 ---
-
 A collection of algorithms I implemented while learning algorithms and data structures.

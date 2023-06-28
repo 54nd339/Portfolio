@@ -19,6 +19,7 @@ const StyledProjectsSection = styled.section`
   .archive-link {
     font-family: var(--font-mono);
     font-size: var(--fz-sm);
+    margin-top: 20px;
     &:after {
       bottom: 0.1em;
     }
@@ -171,7 +172,10 @@ const Projects = () => {
       projects: allMarkdownRemark(
         filter: {
           fileAbsolutePath: { regex: "/content/projects/" }
-          frontmatter: { showInProjects: { ne: false } }
+          frontmatter: {
+            showInProjects: { ne: false }
+            web: { eq: false }
+          }
         }
         sort: { fields: [frontmatter___date], order: DESC }
       ) {
@@ -267,10 +271,6 @@ const Projects = () => {
     <StyledProjectsSection>
       <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
 
-      <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        view the archive
-      </Link>
-
       <ul className="projects-grid">
         {prefersReducedMotion ? (
           <>
@@ -302,9 +302,14 @@ const Projects = () => {
         )}
       </ul>
 
-      <button className="more-button" onClick={() => setShowMore(!showMore)}>
+      <button className="more-button"
+      onClick={() => setShowMore(!showMore) }>
         Show {showMore ? 'Less' : 'More'}
       </button>
+
+      <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
+        view the archive
+      </Link>
     </StyledProjectsSection>
   );
 };
