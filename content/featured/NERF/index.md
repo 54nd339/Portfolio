@@ -3,7 +3,7 @@ date: '3'
 title: 'NeRF Model'
 cover: './NeRF.png'
 github: 'https://github.com/54nd339/ML_DA/blob/master/Colabs/NERF.ipynb'
-external: ''
+external: 'https://colab.research.google.com/drive/1W71RXTjqcx_afXFBCUOO3Oj308DWxpMC?usp=sharing'
 cta: ''
 tech:
   - Tensorflow
