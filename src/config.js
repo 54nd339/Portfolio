@@ -6,18 +6,22 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/54nd339',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/54nd339',
-    },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/54nd339',
+    // },
     // {
     //   name: 'Twitter',
     //   url: 'https://twitter.com/54nd339',
     // },
-    // {
-    //   name: 'Linkedin',
-    //   url: 'https://www.linkedin.com/in/54nd339',
-    // },
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/54nd339',
+    },
+    {
+      name: 'Replit',
+      url: 'https://replit.com/@54nd339',
+    },
     {
       name: 'Codepen',
       url: 'https://codepen.io/54nd339',
