@@ -65,10 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m an enthusiastic final year student at KIIT DU, pursuing a Bachelor's degree
+        I’m an enthusiastic final year student at KIIT DU, pursuing a Bachelor’s degree
         in Computer Science &amp; Engineering. As a passionate full-stack developer and
         freelancer, I love bringing ideas to life on the web. Beyond web development,
-        I'm actively exploring the exciting realms of machine learning and quantum computing.
+        I’m actively exploring the exciting realms of machine learning and quantum computing.
         
         {/* Making websites look fantastic requires dedicated effort, and I thrive on the challenge.
         If you're curious about the power of simplicity, Visit this{' '}
