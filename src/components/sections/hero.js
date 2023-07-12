@@ -65,14 +65,17 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a student from KIIT DU, currently pursuing Bachelor's degree in Computer Science
-        &amp; Engineering. I’m a self-taught full-stack developer and a freelance. I enjoy creating
-        things that live on the internet. I guess a lot of effort is required to make a website look
-        good. Visit this{' '}
+        I’m an enthusiastic final year student at KIIT DU, pursuing a Bachelor's degree
+        in Computer Science &amp; Engineering. As a passionate full-stack developer and
+        freelancer, I love bringing ideas to life on the web. Beyond web development,
+        I'm actively exploring the exciting realms of machine learning and quantum computing.
+        
+        {/* Making websites look fantastic requires dedicated effort, and I thrive on the challenge.
+        If you're curious about the power of simplicity, Visit this{' '}
         <a href="https://motherfuckingwebsite.com/">
           simple website
-        </a>{' '}
-        without any fancy stuff. In case you want to skip the fancy part, here's my resume.
+        </a>{' '}. */}<br /><br />
+        In case you want to skip the fancy part, here's my resume.
       </p>
     </>
   );

@@ -4,8 +4,8 @@ skill: 'Programming/Scripting Languages'
 techs: 'C, C++, Java, Python, HTML/CSS/JS'
 rank: 1
 ---
-- I use C for my college labs and low level programming.
-- I use C++ for competitive programming.
-- I use Java for Android Development.
-- I use Python for Machine Learning and Data Science.
-- I use HTML/CSS/JS for Web Development.
+- Proficient in C for college labs and low-level programming tasks.
+- Skilled in competitive programming using C++.
+- Experienced in Android development with Java.
+- Python is the go-to language for Machine Learning and Data Science.
+- Well-versed in web development using HTML, CSS, and JavaScript.

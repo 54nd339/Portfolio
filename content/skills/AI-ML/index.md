@@ -5,6 +5,6 @@ techs: 'Tensorflow, Keras, Python Libraries'
 rank: 4
 ---
 - Numpy, Pandas, Matplotlib, Scikit-learn are my go-to libraries for data analysis.
-- I use Tensorflow and Keras for building and training deep learning models.
-- I use OpenCV for image processing and computer vision.
-- I use Flask for deploying ML models as web apps.
+- Skilled in deep learning model development using Tensorflow and Keras.
+- Experienced in image processing and computer vision using OpenCV.
+- Proficient in deploying ML models as web apps using Flask.

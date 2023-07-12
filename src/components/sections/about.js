@@ -136,18 +136,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I've started coding since I was 12 and I've been doing it ever since.
-              I like to code things from scratch, and enjoy problem-solving.
-              I'm also a huge fan of open-source and love to contribute to the community.
+            Coding has been my passion since the age of 12, and I've been hooked ever since.
+            I thrive on building things from scratch and solving problems with my coding skills.
+            Being a staunch advocate of open-source, I actively contribute to the community.
             </p>
 
             <p>
-              Fast-forward to today, my main focus these days is building products that provide pixel-perfect,
-              performant experiences. I'm trying different technologies ranging from Web/App Development to
-              Machine Learning and Quantum Computing. I'm also the AppDev Lead of the{' '}
+              Fast-forward to today, my focus lies in crafting pixel-perfect, high-performance products.
+              I explore various technologies, spanning from Web/App Development to Machine Learning and
+              Quantum Computing. Additionally, I have the privilege of serving as the AppDev Lead of the{' '}
               <a href="https://konnexions.netlify.app/">
                 KIIT Konnexions
-              </a>{' '}, the IT society of{' '}
+              </a>{' '}, the IT &amp; Web society of{' '}
               <a href="https://www.kiit.ac.in">
                 KIIT University
               </a>.
