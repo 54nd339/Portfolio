@@ -1,9 +1,9 @@
 ---
 date: '2'
-title: 'Convergence Studies of GAN Algorithms using Duality Gap'
+title: 'Convergence Studies of GAN Training Algorithms using Duality Gap'
 cover: './Optims.png'
 github: 'https://github.com/54nd339/ML_DA/blob/master/GAN/GAN.ipynb'
-external: 'https://sandeepswain.dev/GAN_Optimizations.pdf'
+external: '/gans.pdf'
 cta: ''
 tech:
   - GAN

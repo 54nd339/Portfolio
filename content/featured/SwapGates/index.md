@@ -1,9 +1,9 @@
 ---
 date: '1'
-title: 'Nearest Neighbor Realization of Quantum Circuits'
+title: 'Nearest Neighbor Realization of Quantum Circuits in 2D Architecture'
 cover: './Reading.png'
 github: 'https://github.com/54nd339/ML_DA/blob/master/QuantumComp/benchmark.ipynb'
-external: 'https://sandeepswain.dev/Swap_Gate_Optimizations.pdf'
+external: '/qcnn.pdf'
 cta: ''
 tech:
   - Quantum Computing
