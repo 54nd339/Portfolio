@@ -3,7 +3,7 @@ date: '2'
 title: 'GAN Optimisation improvement using Duality Gap'
 cover: './Optims.png'
 github: 'https://github.com/54nd339/ML_DA/blob/master/GAN/GAN.ipynb'
-external: 'https://colab.research.google.com/drive/1ziv7NO7wVpIUxAeP71txQnz4NG3DA978?usp=sharing'
+external: 'https://sandeepswain.dev/GAN_Optimizations.pdf'
 cta: ''
 tech:
   - GAN

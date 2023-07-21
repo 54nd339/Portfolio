@@ -1,13 +1,13 @@
 ---
 date: '1'
-title: 'Nearest neighbor Transformation of Quantum Circuits in 2D architecture'
+title: 'Nearest neighbor Realization of Quantum Circuits in 2D Architecture'
 cover: './Reading.png'
-github: 'https://github.com/54nd339/ML_DA/blob/master/QuantumComp/benchmark%202.ipynb'
-external: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9288674'
+github: 'https://github.com/54nd339/ML_DA/blob/master/QuantumComp/benchmark.ipynb'
+external: 'https://sandeepswain.dev/Swap_Gate_Optimizations.pdf'
 cta: ''
 tech:
   - Quantum Computing
   - Nearest Neighbor Transformation
   - BFS & Genetic Algorithm
 ---
-The results show that the improved algorithm can transform the benchmark circuits to nearest neighbor circuits in 2D architecture with a **minimum** number of SWAP gates. This is an improvent to the paper mentioned in the external link. The new results can be found in the github link.
+Developed a heuristic approach to represent quantum circuits with NN constraints efficiently within a 2D space. Rigorously tested on diverse benchmarks, which has resulted in reductions of 39% and 24% in SWAP count and quantum cost, respectively, surpassing existing 2D designs.
