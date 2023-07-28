@@ -1,15 +1,15 @@
 ---
 date: '2023-07-18'
-title: 'Sanji'
-github: 'https://github.com/54nd339/Blog'
-external: 'https://blog.sandeepswain.dev/'
+title: 'Saanj Writes'
+github: 'https://github.com/54nd339/saanj-writes'
+external: 'https://saanj.netlify.app/'
 company: 'Personal'
 ios: ''
 android: ''
 tech:
-  - AstroJS
-  - Bootstrap
-  - GraphCMS
+  - Next.js
+  - TailwindCSS
+  - Upstash
 showInProjects: false
 web: true
 ---
