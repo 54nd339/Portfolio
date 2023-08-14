@@ -125,7 +125,7 @@ const About = () => {
   }, []);
 
   const skills = ['(2020 - Now) B.Tech. CSE (KIIT University) - 9.21 CGPA',
-                  '(2020) Intermediate (FIITJEE Jr. College) - 95.5% (IPE-AP)',
+                  '(2020) Intermediate (FIITJEE Jr. College) - 99.4% (IPE-AP)',
                   '(2018) Primary (De Paul School) - 92.4% (ICSE)'];
 
   return (
