@@ -2,7 +2,7 @@
 date: '2022-10-27'
 title: 'Super Resolution Model'
 github: 'https://github.com/54nd339/ML_DA/blob/master/Colabs/SuperRes.ipynb'
-external: 'https://colab.research.google.com/drive/162hPTEnjk8T156ldtJCXcF8QQUsy0ujH?usp=sharing'
+external: 'https://colab.research.google.com/drive/186ztH8-eybyMcrnIK8m2jTpVdl-bi6hi?usp=sharing'
 company: 'ML/AI'
 ios: ''
 android: ''

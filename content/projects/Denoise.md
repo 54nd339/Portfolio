@@ -2,7 +2,7 @@
 date: '2022-10-13'
 title: 'Image Denoising Model'
 github: 'https://github.com/54nd339/ML_DA/blob/master/Colabs/Image%20Denoising.ipynb'
-external: 'https://colab.research.google.com/drive/1o44wcYGgf4xABon8LgJwIQI20zR1ilqo?usp=sharing'
+external: 'https://colab.research.google.com/drive/1gamkTG-NktKnggHOU1vCxcpwQHjI22bK?usp=sharing'
 company: 'ML/AI'
 ios: ''
 android: ''

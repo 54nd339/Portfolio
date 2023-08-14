@@ -2,7 +2,7 @@
 date: '2022-11-10'
 title: 'LowLight Image Enhancement Model'
 github: 'https://github.com/54nd339/ML_DA/blob/master/Colabs/LowLight%20Image%20Enhancement.ipynb'
-external: 'https://colab.research.google.com/drive/1HE65DXeBXeKmxdnnhxOEfegBX2fffdMb?usp=sharing'
+external: 'https://colab.research.google.com/drive/1uyNfE3W0VJZlRVgZelPk0uyGZ5ZCwP1A?usp=sharing'
 company: 'ML/AI'
 ios: ''
 android: ''

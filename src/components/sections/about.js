@@ -150,6 +150,9 @@ const About = () => {
               </a>{' '}, the IT &amp; Web society of{' '}
               <a href="https://www.kiit.ac.in">
                 KIIT University
+              </a>{' '} and as a SDE intern at{' '}
+              <a href="https://www.jungleegames.com/">
+                Junglee Games
               </a>.
             </p>
 

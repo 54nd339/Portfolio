@@ -2,7 +2,7 @@
 date: '2022-09-29'
 title: 'Neural Style Transfer Model'
 github: 'https://github.com/54nd339/ML_DA/blob/master/Colabs/Neural%20Style%20Transfer.ipynb'
-external: 'https://colab.research.google.com/drive/1oIABns4iILrGC-4lSOU5KIRDhn6ImxFK?usp=sharing'
+external: 'https://colab.research.google.com/drive/1dFtos4KzDNPfRuYC4blDhfe0dgC0p3l2?usp=sharing'
 company: 'ML/AI'
 ios: ''
 android: ''

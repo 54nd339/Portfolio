@@ -2,7 +2,7 @@
 date: '2022-09-15'
 title: 'Image Captioning Model'
 github: 'https://github.com/54nd339/ML_DA/blob/master/Colabs/Image%20Captioning.ipynb'
-external: 'https://colab.research.google.com/drive/1hpZuVxU_-R15C3EqAL_jTZkPjzMqIm8l?usp=sharing'
+external: 'https://colab.research.google.com/drive/1xnwpbhz7XVoM3zy3sHaTo2jDUFB_gKfi?usp=sharing'
 company: 'ML/AI'
 ios: ''
 android: ''

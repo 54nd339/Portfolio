@@ -69,6 +69,10 @@ const Hero = () => {
         in Computer Science &amp; Engineering. As a passionate full-stack developer and
         freelancer, I love bringing ideas to life on the web. Beyond web development,
         I’m actively exploring the exciting realms of machine learning and quantum computing.
+        I’m currently working as a SDE Intern at{' '}
+        <a href="https://www.jungleegames.com/" target="_blank" rel="noreferrer">
+          Junglee Games
+        </a>{' '}.
         
         {/* Making websites look fantastic requires dedicated effort, and I thrive on the challenge.
         If you're curious about the power of simplicity, Visit this{' '}
