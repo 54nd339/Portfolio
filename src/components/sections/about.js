@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
 import styled from 'styled-components';
-import { srConfig } from '@config';
+import { srConfig, education } from '@config';
 import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
@@ -124,10 +124,6 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['(2020 - Now) B.Tech. CSE (KIIT University) - 9.21 CGPA',
-                  '(2020) Intermediate (FIITJEE Jr. College) - 99.4% (IPE-AP)',
-                  '(2018) Primary (De Paul School) - 92.4% (ICSE)'];
-
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
@@ -147,10 +143,10 @@ const About = () => {
               Quantum Computing. Additionally, I have the privilege of serving as the AppDev Lead of the{' '}
               <a href="https://konnexions.netlify.app/">
                 KIIT Konnexions
-              </a>{' '}, the IT &amp; Web society of{' '}
-              <a href="https://www.kiit.ac.in">
+              </a>, the IT &amp; Web society of{' '}
+              <a href="https://kiit.ac.in/">
                 KIIT University
-              </a>{' '} and as a SDE intern at{' '}
+              </a> and as a SDE intern at{' '}
               <a href="https://www.jungleegames.com/">
                 Junglee Games
               </a>.
@@ -160,7 +156,18 @@ const About = () => {
           </div>
 
           <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
+            {education.map((degree, i) => (
+              <li key={i}>
+                ({degree.year}) {degree.name}{' '}
+                <a href={degree.link} target="_blank" rel="noreferrer">
+                  ({degree.institute})
+                </a> -{' '}
+                {degree.gpaLink == '' ? degree.score :
+                <a href={degree.gpaLink} target="_blank" rel="noreferrer">
+                  {degree.score}
+                </a>}
+              </li>
+            ))}
           </ul>
         </StyledText>
 

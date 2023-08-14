@@ -55,6 +55,33 @@ module.exports = {
     },
   ],
 
+  education: [
+    {
+      year: '2020 - Now',
+      name: 'B.Tech. in CSE',
+      institute: 'KIIT University',
+      link: 'https://kiit.ac.in',
+      score: '9.21 CGPA',
+      gpaLink: ''
+    },
+    {
+      year: '2020',
+      name: 'Intermediate',
+      institute: 'FIITJEE Jr. College',
+      link: 'https://fiitjeevijayawada.com',
+      score: '99.4% (IPE-AP)',
+      gpaLink: '/ipe.pdf'
+    },
+    {
+      year: '2018',
+      name: 'Primary',
+      institute: 'De Paul School',
+      link: 'https://depaulbam.in',
+      score: '92.4% (ICSE)',
+      gpaLink: '/icse.pdf'
+    }
+  ],
+
   colors: {
     green: '#64ffda',
     navy: '#0a192f',
