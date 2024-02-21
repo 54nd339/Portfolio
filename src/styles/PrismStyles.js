@@ -155,6 +155,21 @@ const PrismStyles = css`
   .gatsby-highlight pre[class='language-flow']::before {
     content: 'flow';
   }
+  .gatsby-highlight pre[class='language-pseudocode']::before {
+    content: 'pseudocode';
+  }
+  .gatsby-highlight pre[class='language-python']::before {
+    content: 'python';
+  }
+  .gatsby-highlight pre[class='language-java']::before {
+    content: 'java';
+  }
+  .gatsby-highlight pre[class='language-c']::before {
+    content: 'c';
+  }
+  .gatsby-highlight pre[class='language-cpp']::before {
+    content: 'cpp';
+  }
 
   /* Prism Styles */
   .token {

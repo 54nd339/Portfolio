@@ -6,6 +6,7 @@ import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { Layout } from '@components';
 import { IconBookmark } from '@components/icons';
+import 'katex/dist/katex.min.css'
 
 const StyledMainContainer = styled.main`
   & > header {
@@ -144,7 +145,6 @@ const StyledPost = styled.li`
 
 const PensievePage = ({ location, data }) => {
   const posts = data.allMarkdownRemark.edges;
-  console.log(data)
 
   return (
     <Layout location={location}>
