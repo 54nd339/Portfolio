@@ -57,8 +57,8 @@ module.exports = {
 
   education: [
     {
-      year: '2020 - Now',
-      name: 'B.Tech. in CSE',
+      year: '2024',
+      name: 'B.Tech. (Hons.) in CSE',
       institute: 'KIIT University',
       link: 'https://kiit.ac.in',
       score: '9.21 CGPA',

@@ -146,9 +146,9 @@ const About = () => {
               </a>, the IT &amp; Web society of{' '}
               <a href="https://kiit.ac.in/">
                 KIIT University
-              </a> and as a SDE intern at{' '}
+              </a> and as a Software Development Engineer at{' '}
               <a href="https://www.jungleegames.com/">
-                Junglee Games
+                Junglee Games Pvt. Ltd.
               </a>.
             </p>
 

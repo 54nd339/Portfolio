@@ -65,20 +65,18 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m an enthusiastic final year student at KIIT DU, pursuing a Bachelor’s degree
-        in Computer Science &amp; Engineering. As a passionate full-stack developer and
-        freelancer, I love bringing ideas to life on the web. Beyond web development,
-        I’m actively exploring the exciting realms of machine learning and quantum computing.
-        I’m currently working as a SDE Intern at{' '}
+        I’m an enthusiastic Software Development Engineer at{' '}
         <a href="https://www.jungleegames.com/" target="_blank" rel="noreferrer">
           Junglee Games
-        </a>{' '}.
-        
-        {/* Making websites look fantastic requires dedicated effort, and I thrive on the challenge.
+        </a>. As a passionate full-stack developer, I love bringing ideas to life on the web
+        and applications. Beyond software development,
+        I’m actively exploring the exciting realms of machine learning and quantum computing.
+        <br /><br />
+        Making websites look fantastic requires dedicated effort, and I thrive on the challenge.
         If you're curious about the power of simplicity, Visit this{' '}
         <a href="https://motherfuckingwebsite.com/">
           simple website
-        </a>{' '}. */}<br /><br />
+        </a>{' '}.<br /><br />
         In case you want to skip the fancy part, here's my resume.
       </p>
     </>
@@ -86,7 +84,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="/resume2.pdf"
+      href="/resume.pdf"
       target="_blank"
       rel="noreferrer">
       Resume!
