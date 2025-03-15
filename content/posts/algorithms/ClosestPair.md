@@ -3,7 +3,7 @@ title: Closest Pair of Points
 description: A divide and conquer algorithm to find the closest pair of points in a set of points in the plane.
 date: 2022-03-16
 draft: false
-slug: /pensieve/algo-closest-pair-of-points
+slug: /pensieve/algorithms/closest-pair-of-points
 tags:
   - DSA
   - Divide and Conquer

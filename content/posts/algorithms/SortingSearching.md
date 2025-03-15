@@ -3,14 +3,17 @@ title: Sorting and Searching
 description: Sorting and searching are two fundamental operations in computer science. Sorting is the process of arranging items in a specific order, while searching is the process of finding a specific item in a collection of items.
 date: 2022-03-15
 draft: false
-slug: /pensieve/algo-sorting-searching
+slug: /pensieve/algorithms/sorting-searching
 tags:
   - DSA
   - Sorting & Searching
 ---
+The digital world thrives on organization. From your meticulously categorized music library to the lightning-fast search results on your favorite engine, efficient data manipulation is the backbone of modern computing. Sorting and searching algorithms play a crucial role in this game, ensuring information retrieval and organization happen seamlessly. Today, we'll delve into the fascinating world of these algorithms, exploring their inner workings, complexity analysis, and practical implementations.
+
 ## Definition and Properties
 
 Sorting and searching are two fundamental operations in computer science. Sorting is the process of arranging items in a specific order, while searching is the process of finding a specific item in a collection of items. The properties of sorting and searching algorithms are as follows:
+
 - **Sorting**:
   - It arranges items in a specific order, such as numerical or lexicographical order.
   - It is used to organize data for efficient searching and retrieval.
@@ -22,6 +25,7 @@ Sorting and searching are two fundamental operations in computer science. Sortin
 ## Applications
 
 Sorting and searching algorithms have a wide range of applications in various fields, including:
+
 - Database management: Sorting algorithms are used to organize data in databases, making it easier to search and retrieve information.
 - Information retrieval: Searching algorithms are used to locate specific information within a dataset, such as finding a particular record in a database.
 - Web search engines: Searching algorithms are used to find relevant web pages based on user queries, such as Google's PageRank algorithm.
@@ -233,17 +237,17 @@ BinarySearch(A, x):
 
 The time and space complexity of sorting and searching algorithms are as follows:
 
-| Algorithm     | Best Case  | Average Case  | Worst Case  | Space Complexity  | Stability         |
-| ------------- | ---------- | ------------- | ----------- | ----------------- | ----------------- |
-| Bubble Sort   | O(n)       | O(n^2)        | O(n^2)      | O(1)              | Stable            |
-| Selection Sort| O(n^2)     | O(n^2)        | O(n^2)      | O(1)              | Unstable          |
-| Insertion Sort| O(n)       | O(n^2)        | O(n^2)      | O(1)              | Stable            |
-| Merge Sort    | O(n log n) | O(n log n)    | O(n log n)  | O(n)              | Stable            |
-| Quick Sort    | O(n log n) | O(n log n)    | O(n^2)      | O(log n)          | Unstable          |
-| Heap Sort     | O(n log n) | O(n log n)    | O(n log n)  | O(1)              | Unstable          |
-| Radix Sort    | O(nk)      | O(nk)         | O(nk)       | O(n + k)          | Stable            |
-| Linear Search | O(1)       | O(n)          | O(n)        | O(1)              | N/A               |
-| Binary Search | O(1)       | O(log n)      | O(log n)    | O(1)              | N/A               |
+| Algorithm      | Best Case  | Average Case | Worst Case | Space Complexity | Stability |
+| -------------- | ---------- | ------------ | ---------- | ---------------- | --------- |
+| Bubble Sort    | O(n)       | O(n^2)       | O(n^2)     | O(1)             | Stable    |
+| Selection Sort | O(n^2)     | O(n^2)       | O(n^2)     | O(1)             | Unstable  |
+| Insertion Sort | O(n)       | O(n^2)       | O(n^2)     | O(1)             | Stable    |
+| Merge Sort     | O(n log n) | O(n log n)   | O(n log n) | O(n)             | Stable    |
+| Quick Sort     | O(n log n) | O(n log n)   | O(n^2)     | O(log n)         | Unstable  |
+| Heap Sort      | O(n log n) | O(n log n)   | O(n log n) | O(1)             | Unstable  |
+| Radix Sort     | O(nk)      | O(nk)        | O(nk)      | O(n + k)         | Stable    |
+| Linear Search  | O(1)       | O(n)         | O(n)       | O(1)             | N/A       |
+| Binary Search  | O(1)       | O(log n)     | O(log n)   | O(1)             | N/A       |
 
 ## Conclusion
 

@@ -33,7 +33,7 @@ module.exports = {
     {
       name: 'FreeCodeCamp',
       url: 'https://www.freecodecamp.org/54nd339',
-    }
+    },
   ],
 
   navLinks: [
@@ -53,6 +53,10 @@ module.exports = {
       name: 'Contact',
       url: '/#contact',
     },
+    {
+      name: 'Blog',
+      url: '/pensieve',
+    },
   ],
 
   education: [
@@ -62,7 +66,7 @@ module.exports = {
       institute: 'KIIT University',
       link: 'https://kiit.ac.in',
       score: '9.21 CGPA',
-      gpaLink: ''
+      gpaLink: '',
     },
     {
       year: '2020',
@@ -70,7 +74,7 @@ module.exports = {
       institute: 'FIITJEE Jr. College',
       link: 'https://fiitjeevijayawada.com',
       score: '99.4% (IPE-AP)',
-      gpaLink: '/ipe.pdf'
+      gpaLink: '/ipe.pdf',
     },
     {
       year: '2018',
@@ -78,8 +82,8 @@ module.exports = {
       institute: 'De Paul School',
       link: 'https://depaulbam.in',
       score: '92.4% (ICSE)',
-      gpaLink: '/icse.pdf'
-    }
+      gpaLink: '/icse.pdf',
+    },
   ],
 
   colors: {

@@ -3,10 +3,10 @@ title: Hamiltonian Cycle
 description: The Hamiltonian cycle problem is to find if there exists a tour that visits every city exactly once. A Hamiltonian cycle (or Hamiltonian circuit) is a Hamiltonian path that is a cycle.
 date: 2022-03-16
 draft: false
-slug: /pensieve/algo-hamiltonian-cycle
+slug: /pensieve/algorithms/hamiltonian-cycle
 tags:
   - DSA
-  - Graphs
+  - Graph
   - Backtracking
 ---
 ## Problem Statement

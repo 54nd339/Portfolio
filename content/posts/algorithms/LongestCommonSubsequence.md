@@ -3,10 +3,10 @@ title: Longest Common Subsequence
 description: Longest Common Subsequence (LCS) is a classic dynamic programming problem. It is a subsequence of two strings that is common to both strings and is not necessarily contiguous. The problem is to find the length of the longest common subsequence of two strings.
 date: 2022-03-16
 draft: false
-slug: /pensieve/algo-lcs
+slug: /pensieve/algorithms/longest-common-subsequence
 tags:
   - DSA
-  - Dynamic Programming
+  - DP
 ---
 ## Problem Statement
 

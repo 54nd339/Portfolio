@@ -3,12 +3,11 @@ title: Red-Black Tree
 description: A red-black tree is a self-balancing binary search tree where each node has an extra bit for color, either red or black. 
 date: 2023-01-19
 draft: false
-slug: /pensieve/red-black-tree
+slug: /pensieve/tree/red-black-tree
 tags:
   - DSA
   - Trees
 ---
-
 ## Introduction
 
 A red-black tree is a self-balancing binary search tree where each node has an extra bit for color, either red or black. It is named after its inventors, Rudolf Bayer and Edward McCreight. Red-black trees are used in many libraries and applications due to their ability to handle large amounts of data efficiently. They are also used to implement other data structures such as sets and maps. It is used in the C++ STL (Standard Template Library) to implement the `std::set` and `std::map` classes, the Linux kernel for process scheduling, the Java `TreeMap` class, and the Apache Cassandra database for storing data.
@@ -219,3 +218,13 @@ function delete_fixup(T, x):
                 x = T.root
     x.color = BLACK
 ```
+
+## Applications
+
+Red-black trees are used in many libraries and applications due to their ability to handle large amounts of data efficiently. They are also used to implement other data structures such as sets and maps. Some of the applications of red-black trees include:
+
+- Implementing sets and maps: Red-black trees are used to implement the `std::set` and `std::map` classes in the C++ STL.
+- Process scheduling: Red-black trees are used in the Linux kernel for process scheduling.
+- Database indexing: Red-black trees are used to index data in databases to speed up search operations.
+- File systems: Red-black trees are used in file systems to maintain directory structures and file metadata.
+- Implementing associative arrays: Red-black trees are used to implement associative arrays in various programming languages.

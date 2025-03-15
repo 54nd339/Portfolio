@@ -3,7 +3,7 @@ title: 0/1 Knapsack Problem
 description: The 0/1 knapsack problem is a classic combinatorial problem that requires selecting a subset of items with maximum value while keeping the total weight within a given limit. The problem is to find the maximum value that can be obtained by selecting a subset of items with a total weight less than or equal to the given limit.
 date: 2022-03-16
 draft: false
-slug: /pensieve/algo-01-knapsack
+slug: /pensieve/algorithms/01-knapsack
 tags:
   - DSA
   - DP

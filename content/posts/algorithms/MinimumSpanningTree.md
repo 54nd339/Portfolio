@@ -3,7 +3,7 @@ title: Minimum Spanning Tree
 description: A minimum spanning tree (MST) is a subset of the edges of a connected, edge-weighted graph that connects all the vertices together, without any cycles, and with the minimum possible total edge weight.
 date: 2023-05-19
 draft: false
-slug: /pensieve/mimimum-spanning-tree
+slug: /pensieve/algorithms/minimum-spanning-tree
 tags:
   - DSA
   - Greedy

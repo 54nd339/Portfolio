@@ -3,7 +3,7 @@ title: Matrix Chain Multiplication
 description: It is an algorithm that finds the most efficient way to multiply a sequence of matrices by finding the optimal positions to split the sequence of matrices.
 date: 2022-05-18
 draft: false
-slug: /pensieve/algo-matrix-chain-multiplication
+slug: /pensieve/algorithms/matrix-chain-multiplication
 tags:
   - DSA
   - DP

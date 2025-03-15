@@ -3,7 +3,7 @@ title: Sudoku Solver
 description: The Sudoku Solver is a classic combinatorial problem that requires solving a partially filled 9×9 grid so that every row, column, and each of the nine 3×3 subgrids contain all of the digits from 1 to 9.
 date: 2022-03-16
 draft: false
-slug: /pensieve/algo-sudoku-solver
+slug: /pensieve/algorithms/sudoku-solver
 tags:
   - DSA
   - Backtracking

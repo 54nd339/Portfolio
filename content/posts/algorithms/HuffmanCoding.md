@@ -3,7 +3,7 @@ title: Huffman Coding
 description: Huffman coding is a lossless data compression algorithm that is optimal in terms of the number of bits used for each symbol.
 date: 2023-05-18
 draft: false
-slug: /pensieve/algo-huffman-coding
+slug: /pensieve/algorithms/huffman-coding
 tags:
   - DSA
   - Greedy

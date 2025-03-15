@@ -3,7 +3,7 @@ title: B Tree
 description: A B-tree is a self-balancing tree data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time.
 date: 2023-04-13
 draft: false
-slug: /pensieve/b-tree
+slug: /pensieve/tree/b-tree
 tags:
   - DSA
   - Trees

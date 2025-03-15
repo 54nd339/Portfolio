@@ -3,7 +3,7 @@ title: Activity Selection
 description: Activity Selection is a combinatorial optimization problem concerning the selection of non-conflicting activities to perform within a given time frame, given a set of activities each marked by a start time and finish time.
 date: 2022-03-16
 draft: false
-slug: /pensieve/algo-activity-selection
+slug: /pensieve/algorithms/activity-selection
 tags:
   - DSA
   - Greedy

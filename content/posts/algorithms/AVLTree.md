@@ -3,12 +3,11 @@ title: AVL Tree
 description: An AVL tree is a self-balancing binary search tree where the difference between the heights of the left and right subtrees of any node is at most 1.
 date: 2023-04-13
 draft: false
-slug: /pensieve/avl-tree
+slug: /pensieve/tree/avl-tree
 tags:
   - DSA
   - Trees
 ---
-
 ## Introduction
 
 An AVL tree is a self-balancing binary search tree where the difference between the heights of the left and right subtrees of any node is at most 1. It is named after its inventors, Adelson-Velsky and Landis. AVL trees are the first data structure to be described as a self-balancing binary search tree. They are also one of the most commonly used self-balancing binary search trees.
@@ -81,10 +80,10 @@ function insert(root, key):
         root.right = insert(root.right, key)
     else:
         return root
-    
+  
     root.height = 1 + max(height(root.left), height(root.right))
     balance = get_balance(root)
-    
+  
     if balance > 1 and key < root.left.key:
         return right_rotate(root)
     if balance < -1 and key > root.right.key:
@@ -98,7 +97,7 @@ function insert(root, key):
     return root
 ```
 
-### Deletion**
+### Deletion
 
 Delete a node with a given key from the AVL tree while maintaining the AVL property. The deletion operation is similar to the deletion operation in a binary search tree, but we also need to update the height and balance factor of the nodes and perform rotations if necessary to maintain the AVL property. The deletion operation has a time complexity of O(log n), where n is the number of nodes in the tree. The space complexity is O(log n) due to the recursive nature of the operation. The pseudocode for the deletion operation is as follows:
 
@@ -124,10 +123,10 @@ function delete(root, key):
             root.right = delete(root.right, temp.key)
     if root is null:
         return root
-    
+  
     root.height = 1 + max(height(root.left), height(root.right))
     balance = get_balance(root)
-    
+  
     if balance > 1 and get_balance(root.left) >= 0:
         return right_rotate(root)
     if balance < -1 and get_balance(root.right) <= 0:
@@ -153,3 +152,14 @@ function search(root, key):
         return search(root.left, key)
     return search(root.right, key)
 ```
+
+## Applications
+
+AVL trees are used in various applications where efficient searching, insertion, and deletion operations are required. Some of the common applications of AVL trees include:
+
+- Database indexing: AVL trees are used to index data in databases to speed up search operations.
+- Compiler implementations: AVL trees are used in compiler implementations to store symbol tables efficiently.
+- File systems: AVL trees are used in file systems to maintain directory structures and file metadata.
+- Network routers: AVL trees are used in network routers to store routing tables for efficient packet forwarding.
+
+AVL trees are also used in various other applications where efficient search, insertion, and deletion operations are required.

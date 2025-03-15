@@ -3,7 +3,7 @@ title: Strassen's Matrix Multiplication
 description: Strassen's algorithm is an algorithm for matrix multiplication. It is faster than the standard matrix multiplication algorithm and is useful in practice for large matrices.
 date: 2022-06-17
 draft: false
-slug: /pensieve/algo-matrix-strassen
+slug: /pensieve/algorithms/strassen-matrix-multiplication
 tags:
   - DSA
   - Matrix Multiplication

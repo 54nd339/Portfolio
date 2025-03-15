@@ -3,7 +3,7 @@ title: Trie
 description: A trie is a tree data structure that is used to store a dynamic set of strings. It is used to perform efficient string operations such as prefix search, string search, and string insertion.
 date: 2023-01-19
 draft: false
-slug: /pensieve/trie
+slug: /pensieve/tree/trie
 tags:
   - DSA
   - Trees

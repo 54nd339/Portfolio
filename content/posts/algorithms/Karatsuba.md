@@ -3,7 +3,7 @@ title: Karatsuba's Algorithm
 description: Karatsuba's algorithm is an algorithm for fast multiplication of large numbers. It reduces the multiplication of two n-digit numbers to at most three multiplications of n/2-digit numbers in general.
 date: 2022-06-17
 draft: false
-slug: /pensieve/algo-karatsuba
+slug: /pensieve/algorithms/karatsuba-multiplication
 tags:
   - DSA
   - Math

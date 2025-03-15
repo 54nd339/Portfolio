@@ -3,7 +3,7 @@ title: Fractional Knapsack
 description: The fractional knapsack problem is a combinatorial optimization problem in which the goal is to fill a container with fractional amounts of different materials chosen to maximize the value of the selected materials.
 date: 2022-03-16
 draft: false
-slug: /pensieve/algo-fractional-knapsack
+slug: /pensieve/algorithms/fractional-knapsack
 tags:
   - DSA
   - Greedy

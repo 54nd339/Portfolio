@@ -3,7 +3,7 @@ title: Fast Fourier Transform
 description: The Fast Fourier Transform (FFT) is an algorithm to compute the Discrete Fourier Transform (DFT) and its inverse. It is widely used in signal processing, data compression, and solving partial differential equations.
 date: 2022-03-16
 draft: false
-slug: /pensieve/algo-fast-fourier-transform
+slug: /pensieve/algorithms/fast-fourier-transform
 tags:
   - DSA
   - Divide and Conquer

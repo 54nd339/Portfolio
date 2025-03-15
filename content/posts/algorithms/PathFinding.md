@@ -3,7 +3,7 @@ title: Path Finding
 description: Pathfinding is the plotting of the shortest route between two points. It is a fundamental algorithm in graph theory and has numerous practical applications in various fields, including robotics, video games, and network routing.
 date: 2023-05-20
 draft: false
-slug: /pensieve/algo-path-finding
+slug: /pensieve/algorithms/path-finding
 tags:
   - DSA
   - Graph
@@ -67,7 +67,7 @@ Dijkstra(G, s):
 
 The algorithm initializes the distance of each vertex from the source vertex `s` to infinity and the predecessor of each vertex to `NIL`. It then iteratively relaxes the edges of the graph, updating the distance and predecessor of each vertex as necessary. The algorithm uses a priority queue `Q` to efficiently select the vertex with the minimum distance at each step. The final result is a graph `G` with updated distances and predecessors, which can be used to reconstruct the shortest path from the source vertex to any other vertex.
 
-[Graph](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijkstra_Animation.gif/220px-Dijkstra_Animation.gif)
+![Graph](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijkstra_Animation.gif/220px-Dijkstra_Animation.gif)
 
 ## Bellman-Ford Algorithm
 
@@ -108,7 +108,7 @@ BellmanFord(G, s):
 
 The algorithm initializes the distance of each vertex from the source vertex `s` to infinity and the predecessor of each vertex to `NIL`. It then iteratively relaxes the edges of the graph `|G.V| - 1` times, updating the distance and predecessor of each vertex as necessary. After this, it iterates through the edges of the graph one more time to detect and report any negative-weight cycles that may exist. The final result is a boolean value indicating whether or not the graph contains any negative-weight cycles.
 
-[Graph](https://en.wikipedia.org/wiki/File:Bellman%E2%80%93Ford_algorithm_example.gif)
+![Bellman Fored](https://upload.wikimedia.org/wikipedia/commons/7/77/Bellman%E2%80%93Ford_algorithm_example.gif)
 
 ## Floyd-Warshall Algorithm
 
@@ -140,8 +140,8 @@ FloydWarshall(G):
 
 The algorithm initializes the distance of each vertex from itself to 0 and the distance of each edge to its weight. It then iteratively updates the distance between all pairs of vertices by considering the distance through a third vertex. The final result is a matrix of minimum distances between all pairs of vertices.
 
-[Graph](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Floyd-Warshall_example.svg/1200px-Floyd-Warshall_example.svg.png)
-[Matrix](../images/FloydWarshall.png)
+![Floyd Warshal](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Floyd-Warshall_example.svg/1200px-Floyd-Warshall_example.svg.png)
+![Matrix](../images/FloydWarshall.png)
 
 ## Time and Space Complexity
 

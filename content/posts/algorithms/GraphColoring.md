@@ -3,7 +3,7 @@ title: Graph Coloring
 description: The Graph Coloring problem is a classic combinatorial problem that requires assigning colors to the vertices of a graph so that no two adjacent vertices have the same color. The problem is to find a valid coloring of the graph with the minimum number of colors.
 date: 2022-03-16
 draft: false
-slug: /pensieve/algo-graph-coloring
+slug: /pensieve/algorithms/graph-coloring
 tags:
   - DSA
   - Backtracking

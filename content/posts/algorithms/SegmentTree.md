@@ -3,7 +3,7 @@ title: Segment Tree
 description: A tree data structure that is used to store intervals or segments. It is used in range query problems and is used in the maximum subarray sum problem.
 date: 2023-01-19
 draft: false
-slug: /pensieve/segment-tree
+slug: /pensieve/tree/segment-tree
 tags:
   - DSA
   - Trees
@@ -206,3 +206,13 @@ class SegmentTree:
             right = right / 2
         return sum
 ```
+
+## Applications
+
+Segment trees are used in a wide range of applications, including:
+
+- Finding the sum of elements in a given range of an array.
+- Finding the minimum or maximum element in a given range of an array.
+- Updating the value of an element in an array and then updating the segment tree accordingly.
+- Finding the number of elements in a given range of an array that satisfy a given condition.
+- Finding the maximum subarray sum in an array.

@@ -81,7 +81,7 @@ function UCS(graph, source, target):
 ### Informed Search Algorithms
 These algorithms use additional information about the problem to guide the search process. Examples of informed search algorithms include A* search, greedy best-first search, and iterative deepening A* search.
 
-**A* Search**: A* search is an informed search algorithm that uses a heuristic function to estimate the cost of the cheapest path from the source node to the target node. It is used to find the shortest path from a source node to a target node in a weighted graph. Below is the pseudocode for A* search.
+**A\* Search**: A* search is an informed search algorithm that uses a heuristic function to estimate the cost of the cheapest path from the source node to the target node. It is used to find the shortest path from a source node to a target node in a weighted graph. Below is the pseudocode for A* search.
 
 ```pseudocode
 function AStarSearch(graph, source, target):
@@ -119,7 +119,7 @@ function GreedyBestFirstSearch(graph, source, target):
     return false
 ```
 
-**Iterative Deepening A* Search**: Iterative deepening A* search is an informed search algorithm that uses a heuristic function to estimate the cost of the cheapest path from the source node to the target node. It is used to find the shortest path from a source node to a target node in a weighted graph. Below is the pseudocode for iterative deepening A* search.
+**Iterative Deepening A\* Search**: Iterative deepening A* search is an informed search algorithm that uses a heuristic function to estimate the cost of the cheapest path from the source node to the target node. It is used to find the shortest path from a source node to a target node in a weighted graph. Below is the pseudocode for iterative deepening A* search.
 
 ```pseudocode
 function IterativeDeepeningAStarSearch(graph, source, target):
