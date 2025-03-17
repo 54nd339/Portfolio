@@ -1,6 +1,6 @@
 ---
 title: Going Quantum - The Standard Model and Beyond
-description: A brief overview of elementary particles, the Standard Model, Quantum Field Theory, and the quest for a unified theory of physics.
+description: Ever wondered what the universe is made of? From quarks to Higgs bosons, this post dives into the Standard Model, quantum fields, and the hunt for a unified theory. If you like your physics weird, your particles tiny, and your forces mysterious—click in for a mind-bending quantum adventure!
 date: 2023-03-05
 draft: false
 slug: /pensieve/physics/particle

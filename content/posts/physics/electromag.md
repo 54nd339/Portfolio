@@ -1,6 +1,6 @@
 ---
-title: Electromagnetism
-description: A Journey Through Vector Calculus and Maxwell's Equations
+title: Electromagnetism - The Unifying Force
+description: Ever wanted to understand the force behind lightning, WiFi, and your fridge magnets—all at once? Electromagnetism is the magic behind it all! This post takes you on a wild ride through Maxwell’s equations, vector calculus, and the secrets of light itself. Buckle up, it’s electrifyingly magnetic!
 date: 2023-02-22
 draft: false
 slug: /pensieve/physics/em

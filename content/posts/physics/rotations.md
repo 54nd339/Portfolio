@@ -1,6 +1,6 @@
 ---
-title: Rotational Dynamics
-description: Unraveling the Intricacies of Rotational Motion
+title: Rotational Dynamics - Spin it to win it!
+description: From pirouetting ballerinas to the physics of fidget spinners, rotational dynamics explains it all. Learn how torque, angular momentum, and gyroscopic effects rule our spinning world. Ever wondered why cats always land on their feet? Click in—this post will turn your perspective around!
 date: 2023-01-22
 draft: false
 slug: /pensieve/physics/rotations

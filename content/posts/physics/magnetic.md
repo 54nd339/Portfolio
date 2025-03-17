@@ -1,6 +1,6 @@
 ---
-title: Magetic Materials
-description: The Invisible Dance Unveiling the Magnetism of Materials
+title: Magetic Materials - The Invisible Attraction
+description: Magnets aren’t just for fridge doors! This post dives into the secret lives of magnetic materials—why some stick, others repel, and how quantum mechanics plays a role. From MRI machines to data storage, discover the invisible dance of atoms that keeps our world running. Click in—it’s attractive!
 date: 2023-02-14
 draft: false
 slug: /pensieve/physics/magnetic

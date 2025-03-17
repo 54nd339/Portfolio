@@ -1,6 +1,6 @@
 ---
-title: Heat
-description: Exploring the fascinating realm of thermal properties of matter.
+title: Thermal Properties of Matter - A Symphony of Heat
+description: Heat - it’s not just for summer complaints! From why metal burns your fingers to how the sun keeps us alive, this post unravels the secrets of heat transfer, thermal expansion, and blackbody radiation. If you’ve ever wondered why your coffee cools down but the universe heats up—this one’s for you!
 date: 2023-02-03
 draft: false
 slug: /pensieve/physics/heat

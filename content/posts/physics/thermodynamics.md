@@ -1,6 +1,6 @@
 ---
-title: Thermodynamics
-description: Unveiling the Dance of Energy - A Journey Through Thermodynamics
+title: Thermodynamics - The Universe's Ultimate Energy Accountant
+description: Ever wondered why your coffee cools but never heats up on its own? Or why you can’t build a perfect engine? This post unravels entropy, heat transfer, and why time only moves forward. Click in—before your curiosity dissipates as wasted energy!
 date: 2023-02-07
 draft: false
 slug: /pensieve/physics/thermodynamics

@@ -1,6 +1,6 @@
 ---
-title: Waves
-description: Symphony of Waves - Unveiling the World of Waves and Interference
+title: Waves - Nature's Way of Keeping Things Groovy!
+description: Whether it’s sound, light, or ripples in your coffee, waves are everywhere. This post dives into interference, diffraction, and the Doppler effect—because who doesn’t love a frequency shift? Click in for a wave-riding adventure through the physics of motion and melody!
 date: 2023-01-28
 draft: false
 slug: /pensieve/physics/waves

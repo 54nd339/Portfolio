@@ -1,6 +1,6 @@
 ---
-title: Static Electricity
-description: Unveiling the World of Electric Charges
+title: Static Electricity - Nature's Prankster!
+description: From hair-raising shocks to lightning bolts, electric charges are everywhere. This post unravels the mysteries of Coulomb’s law, electric fields, and why rubbing a balloon on your head turns you into a science experiment. Click in before your curiosity sparks out!
 date: 2023-02-17
 draft: false
 slug: /pensieve/physics/static-em

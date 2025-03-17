@@ -1,6 +1,6 @@
 ---
-title: Quantum Mechanics
-description: Stepping into the Quantum Realm Unveiling the Mysteries of the Microscopic World
+title: Quantum Mechanics - The Bizarre World of the Very Small
+description: Electrons teleport, cats are both alive and dead, and particles refuse to be pinned down. This post dives into wave-particle duality, uncertainty, and the bizarre rules of the quantum world. If Schrödinger’s cat makes you curious (or nervous), click in for a mind-bending journey!
 date: 2023-03-01
 draft: false
 slug: /pensieve/physics/qm

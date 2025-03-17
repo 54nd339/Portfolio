@@ -1,6 +1,6 @@
 ---
-title: Kinematics
-description: The Study of Motion Without Regard to Its Causes
+title: Kinematics - The Mathematics of Motion
+description: Ever feel like motion is just math in disguise? This post unravels the mysteries of kinematics—why things move, how fast they go, and what happens when they crash. Whether it’s projectiles, rockets, or free-falling toast, we’ve got the equations to explain it all. Click in for a physics-powered ride!
 date: 2023-01-19
 draft: false
 slug: /pensieve/physics/kinematics

@@ -1,6 +1,6 @@
 ---
-title: LASER
-description: Light Amplification by Stimulated Emission of Radiation - Unveiling the World of Lasers
+title: LASER - Not Just for Sci-Fi Battles!
+description: This post unpacks the magic of light amplification, from atoms partying in excited states to beams so precise they cut through steel. Whether it's surgery, barcode scanners, or cat toys, lasers are everywhere—coherent, intense, and ready to shine. Click in and get enlightened!
 date: 2023-02-25
 draft: false
 slug: /pensieve/physics/laser

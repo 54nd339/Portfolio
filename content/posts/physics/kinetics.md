@@ -1,6 +1,6 @@
 ---
-title: Kinetic Theory of Gases
-description: Explore the fascinating world of gases through the lens of the kinetic theory.
+title: Kinetic Theory of Gases - Unveiling the Chaotic World of Gases
+description: Ever wondered how tiny particles zoom around, bouncing off walls and creating pressure? This post dives into the kinetic theory, revealing how temperature, motion, and even molecular collisions shape the world. From ideal gases to real ones misbehaving, it’s physics at its most chaotic—click in!
 date: 2023-02-05
 draft: false
 slug: /pensieve/physics/kinetics

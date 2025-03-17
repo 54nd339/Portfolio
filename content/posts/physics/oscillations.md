@@ -1,6 +1,6 @@
 ---
-title: Oscillation
-description: Symphony of Oscillations - A Deep Dive into Harmonic Motion
+title: Oscillation - The Rhythmic Dance of the Universe
+description: From swinging pendulums to guitar strings and even atoms jiggling, everything moves in waves. This post unpacks the science of vibrations, resonance, and why things sometimes shake themselves apart. If you’ve ever wondered why bridges wobble or clocks tick—this is your kind of motion!
 date: 2023-01-26
 draft: false
 slug: /pensieve/physics/oscillations

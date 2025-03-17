@@ -1,6 +1,6 @@
 ---
-title: Optics
-description: A Journey Through Light Waves and Interference Phenomena
+title: Optics - Where Light Bends, Bounces, and Sometimes Acts Weird!
+description: From mirrors that lie to prisms that split rainbows, this post unpacks reflection, refraction, and interference like never before. Whether you’re into telescopes, holograms, or just curious why rainbows exist—click in for a mind-bending journey through the science of light!
 date: 2023-01-30
 draft: false
 slug: /pensieve/physics/optics

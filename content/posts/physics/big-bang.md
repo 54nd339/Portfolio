@@ -1,6 +1,6 @@
 ---
 title: The Chronology of the Universe in Eight Thresholds
-description: On the Big Bang Theory
+description: The Big Bang wasn’t just an explosive start—it was the ultimate cosmic rollercoaster! From a sizzling singularity to galaxies, black holes, and, somehow, us. This post breaks down the universe’s wild ride in eight epic thresholds. Buckle up for a journey through space, time, and the mysteries of existence!
 date: 2023-03-15
 draft: false
 slug: /pensieve/physics/big-bang

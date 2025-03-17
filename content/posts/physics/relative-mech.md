@@ -1,6 +1,6 @@
 ---
-title: Relative Mechanics
-description: A brief overview of relative mechanics.
+title: Relative Mechanics - Einstein ruined time, and we’re still recovering!
+description: Welcome to relative mechanics, where clocks slow down, rulers shrink, and simultaneity is just an illusion. From time dilation to mass-energy equivalence, this post unpacks the mind-bending world of special relativity. Click in—before time itself warps around you!
 date: 2023-02-27
 draft: false
 slug: /pensieve/physics/relative-mech

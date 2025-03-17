@@ -1,6 +1,6 @@
 ---
-title: Magnetism
-description: Unveiling the World of Magnetism
+title: Magnetism - The Invisible Force
+description: That’s why your fridge holds notes and why MRI machines see inside you! From moving charges to invisible forces shaping our world, this post unpacks everything—from Lorentz force shenanigans to Earth's magnetic tricks. If you've ever wondered why magnets never get tired, click in for an attractive read!
 date: 2023-02-10
 draft: false
 slug: /pensieve/physics/magnetism

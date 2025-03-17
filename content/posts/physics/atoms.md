@@ -1,12 +1,12 @@
 ---
-title: Atoms - The Building Blocks of Matter
-description: From Billiard Balls to Quantum Mechanics
+title: Atoms - The Tiny but Mighty Building Blocks
+description: From billiard balls to quantum weirdness, this post unpacks the wild journey of atomic theory. Ever wondered how electrons throw a party in orbit? Or why the nucleus is a drama queen held together by sheer force? Click in for a mind-blowing atomic adventure!
 date: 2023-02-24
 draft: false
 slug: /pensieve/physics/atoms
 tags:
   - Physics
-  - quantum mechanics
+  - Quantum mechanics
 ---
 The world around us, from the towering trees to the tiniest grain of sand, is built upon the fundamental building blocks called atoms. But how did we arrive at our current understanding of these microscopic marvels? This blog post delves into the fascinating journey of atomic theory, exploring the experiments and models that revolutionized our view of matter.
 

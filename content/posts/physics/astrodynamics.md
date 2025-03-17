@@ -1,6 +1,6 @@
 ---
-title: Astrodyamics
-description: On the dynamics of celestial bodies
+title: Astrodyamics - The Science of Cosmic Motion
+description: Blast off into the wacky world of astrodynamics! Explore celestial dance moves from Kepler’s groovy laws to Einstein’s cosmic curveballs. This blog post unpacks gravity, orbits, and black hole shenanigans with a humorous twist—perfect for science nerds who love a little cosmic comedy while deciphering the universe’s secrets—extra fun.
 date: 2023-01-24
 draft: false
 slug: /pensieve/physics/astrodynamics

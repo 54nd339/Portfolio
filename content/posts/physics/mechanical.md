@@ -1,6 +1,6 @@
 ---
-title: Mechanical Properties of Materials
-description: Strength Within Unveiling the Mechanical Properties of Materials
+title: Mechanical Properties of Materials - The Physics Behind Structural Stability
+description: Ever wondered why bridges don’t snap or why your phone case doesn’t crumble? This post dives into the mechanical secrets of materials—stress, strain, elasticity, and why some materials bend while others break. From skyscrapers to spaghetti noodles, physics holds everything together—literally! Click in for a rock-solid read!
 date: 2023-01-25
 draft: false
 slug: /pensieve/physics/mechanical

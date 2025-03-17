@@ -1,6 +1,6 @@
 ---
-title: Current Electricity
-description: Understanding the Flow of Electric Charge
+title: Current Electricity - The Shocking Truths!
+description: Shocking truths about electricity! Ever wondered how tiny charged particles power your gadgets, light up cities, and even cook your food? This post unplugs the mysteries of current, resistance, and Ohm’s Law—making you an electrifying genius (minus the frizz). Get amped up and dive into the world of flowing charges!
 date: 2023-02-19
 draft: false
 slug: /pensieve/physics/current

@@ -1,6 +1,6 @@
 ---
-title: Fluids
-description: Unveiling the mechanical properties of fluids, from pressure and viscosity to surface tension and flow regimes.
+title: Fluids - The Flowing Symphony of Nature
+description: Fluids - they’re not just for drinking! From the mighty ocean waves to the syrup that refuses to leave your bottle, this post dives into the wild physics of liquids and gases. Learn why things float, why planes fly, and why your coffee stays put—until it doesn’t. Science has never flowed better!
 date: 2023-02-01
 draft: false
 slug: /pensieve/physics/fluids
